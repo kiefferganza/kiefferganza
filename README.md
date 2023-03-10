@@ -6,7 +6,6 @@ Software Developer
 
 * 🌍  I'm based in Davao City
 * ✉️  You can contact me at [kiefferganza23@gmail.com](mailto:kiefferganza23@gmail.com)
-* 🚀  I'm currently working on [Traxion Tech](http://www.traxiontech.net/)
 * 🧠  I'm learning Javascript
 
 ### Skills
